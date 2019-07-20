@@ -5,16 +5,16 @@ Welcome to my portfolio!
 Projects
 
 Lyt (Music) - A curated booking concierge for venues to secure top local talent. 
-Link: https://knightsofnhi.github.io/Lyt/public/index.html
+https://knightsofnhi.github.io/Lyt/public/index.html
 
 Ready-Safe-Go (Travel) - A one-stop-site aiming to empower solo, female travelers by informing them of crime statistics, sharing safety/travel tips, and providing flight information. 
-Link: https://knightsofnhi.github.io/ReadySafeGo/
+https://knightsofnhi.github.io/ReadySafeGo/
 
 Train Time (Schedule) - Enter your train information!
-Link: https://knightsofnhi.github.io/Train-Time/
+https://knightsofnhi.github.io/Train-Time/
 
 Learn Japanese (Education) - Test your Japanese skills with this fun quiz!
-Link: https://knightsofnhi.github.io/Learn-Japanese/
+https://knightsofnhi.github.io/Learn-Japanese/
 
 Crystals Collector (Game) - Gamble by counting crystals!
-Link: https://knightsofnhi.github.io/Crystal-Collector/
+https://knightsofnhi.github.io/Crystal-Collector/
