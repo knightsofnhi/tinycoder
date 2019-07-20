@@ -7,7 +7,6 @@ Projects
 Lyt (Music) - A curated booking concierge for venues to secure top local talent.
 https://knightsofnhi.github.io/Lyt/public/index.html
 
-
 Ready-Safe-Go (Travel) - A one-stop-site aiming to empower solo, female travelers by informing them of crime statistics, sharing safety/travel tips, and providing flight information. 
 https://knightsofnhi.github.io/ReadySafeGo/
 
