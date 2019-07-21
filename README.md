@@ -1,6 +1,7 @@
 # tinycoder
 
 Welcome to my portfolio!
+https://knightsofnhi.github.io/tinycoder/
 
 Projects
 
