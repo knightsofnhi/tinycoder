@@ -5,10 +5,13 @@ https://knightsofnhi.github.io/tinycoder/
 
 Projects
 
-Lyt (Music) - A curated booking concierge for venues to secure top local talent. 
-https://knightsofnhi.github.io/Lyt/public/index.html
+C1App (GuestRev Pro) - A custom, web-based operations monitoring tool for a mid-sized company to view, edit, and update a third-party database in real-time.
+https://guestrevpro.herokuapp.com
 
-Ready-Safe-Go (Travel) - A one-stop-site aiming to empower solo, female travelers by informing them of crime statistics, sharing safety/travel tips, and providing flight information. 
+Lyt Music - A curated booking concierge for venues to secure top local talent. 
+https://lytmusic.herokuapp.com/
+
+Ready-Safe-Go (Travel) - A one-stop-site aiming to empower solo, female travelers by informing them of crime statistics, sharing safety/travel tips, and providing flight information before they book their trips.
 https://knightsofnhi.github.io/ReadySafeGo/
 
 Train Time (Schedule) - Enter your train information!
